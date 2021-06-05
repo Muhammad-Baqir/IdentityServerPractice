@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fLAxDi/DrhLp0UR22mJbFoa25AqCyEPjSo4pL1skBpLkBjq4/kkjnma63KLrcvzlePDD8f5QeFxGMHWsxx8+OA==",
+  "success": true,
+  "projectFilePath": "/home/baqir/This_PC/Programming/Github/Identity_Practice/quickstart/src/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/home/baqir/.nuget/packages/identitymodel/5.1.0/identitymodel.5.1.0.nupkg.sha512",
+    "/home/baqir/.nuget/packages/system.text.encodings.web/5.0.1/system.text.encodings.web.5.0.1.nupkg.sha512",
+    "/home/baqir/.nuget/packages/system.text.json/5.0.1/system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

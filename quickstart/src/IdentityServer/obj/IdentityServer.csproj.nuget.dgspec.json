@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/baqir/This_PC/Programming/Github/Identity_Practice/quickstart/src/IdentityServer/IdentityServer.csproj": {}
+  },
+  "projects": {
+    "/home/baqir/This_PC/Programming/Github/Identity_Practice/quickstart/src/IdentityServer/IdentityServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/baqir/This_PC/Programming/Github/Identity_Practice/quickstart/src/IdentityServer/IdentityServer.csproj",
+        "projectName": "IdentityServer",
+        "projectPath": "/home/baqir/This_PC/Programming/Github/Identity_Practice/quickstart/src/IdentityServer/IdentityServer.csproj",
+        "packagesPath": "/home/baqir/.nuget/packages/",
+        "outputPath": "/home/baqir/This_PC/Programming/Github/Identity_Practice/quickstart/src/IdentityServer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/baqir/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "dependencies": {
+            "IdentityServer4": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/baqir/This_PC/Programming/DotNET/dotnet-sdk-5.0.101-linux-x64/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
